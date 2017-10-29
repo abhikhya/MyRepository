@@ -117,7 +117,7 @@ body
   border-radius: 8px;
   border: 2px solid black;
   /*background-color: #9FD7AE;*/
-  background: rgba(131, 210, 152, 0.75);
+  background: rgba(131, 210, 152, 0.75);/*opacity*/
   text-align: justify;
   word-wrap: break-word;
   height: 900px;
@@ -131,6 +131,7 @@ body
   padding-right: 30px;
   padding-top: 0px;
   padding-bottom: 30px;
+  position: relative;
 }
 h3
 {
@@ -141,6 +142,20 @@ h3
  /* border: 1px solid black;*/
   width: 100%;
   margin: 1%;
+}
+#footer1, #footer2, #footer3
+{
+	text-align: right;
+	position: absolute;
+	bottom: 3px;
+	right: 15px;
+	color: black;
+
+
+}
+#footer1 a, #footer2 a, #footer3 a
+{
+	color: #031CF5;
 }
 /*.col-md-4
 {
