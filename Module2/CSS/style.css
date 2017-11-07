@@ -29,7 +29,7 @@ p {
   padding-bottom: 30px;
 }
 
-#p11
+#p11 /* Heading within each column : Chicken */
 {
   border-radius: 8px;
   position: absolute;
@@ -43,7 +43,7 @@ p {
   width: 33.33%;
   height: 15%;
 }
-#p22
+#p22 /* Heading within each column : Beef */
 {
   border-radius: 8px;
   position: absolute;
@@ -57,7 +57,7 @@ p {
   width: 33.33%;
   height: 15%;
 }
-#p33
+#p33 /* Heading within each column : Chicken */
 {
   border-radius: 8px;
   position: absolute;
