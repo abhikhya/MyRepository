@@ -190,6 +190,10 @@ h3
 {
 	font-size: 1.2em;
 }
+#collapsable-nav
+{
+ background: #383636;
+}
 /*#collapsable-nav a span //* menu symbols
 {
 font-size: 1em;
